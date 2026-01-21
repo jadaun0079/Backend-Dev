@@ -1,3 +1,4 @@
+ // this is question 3
  const fs = require('fs');
 
  function update(date, type, data) {
