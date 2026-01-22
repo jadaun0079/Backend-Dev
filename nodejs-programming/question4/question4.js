@@ -24,4 +24,4 @@ create1();
 console.log(update1());
 
 console.log(read1());
-console.log(delete1());
+
