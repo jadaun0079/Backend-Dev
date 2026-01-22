@@ -1,5 +1,5 @@
-const stringUtils = require('./stringutils');
+const stringutil = require('./stringutil');
 
-console.log(stringutils.capitalize('hello')); // Output: Hello
-console.log(stringutils.reverse('hello'));    // Output: olleh
-console.log(stringutils.countVowels('hello')); // Output: 2
+console.log(stringutil.capitalize('hello')); // Output: Hello
+console.log(stringutil.reverse('hello'));    // Output: olleh
+console.log(stringutil.countVowels('hello')); // Output: 2
